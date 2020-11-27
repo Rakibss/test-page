@@ -1,0 +1,114 @@
+
+@media all and (max-width:1500px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+@media all and (max-width:1200px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+    .contact-section {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .services {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .footer-icon {
+        margin-right: 26px;
+    }
+    .footer-text {
+        float: left;
+        width: 55%;
+    }
+}
+@media all and (max-width:1080px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+    }
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .header-right ul li a {
+        border-right: none;
+  
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .contact-section {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .services {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .banner {
+        padding: 65px;
+    }
+    .banner-text h3 {
+        font-size: 30px;
+        padding: 2px 22px;
+    }
+    .banner-text p {
+        font-size: 21px;
+        max-width: 230px;
+        padding: 5px 10px;
+    }
+}
+@media all and (max-width:980px) {
+    .services-item {
+        width: 100%;
+        margin-bottom: 15px;
+
+    }
+    .services {
+        padding-left: 0px;
+        padding-right: 50px;
+    }
+    .contact-info {
+        width: 100%;
+    }
+    .item-text p {
+        font-size: 20px;
+    }
+    .notice-items {
+        width: 100%;
+        margin-right: 20px;
+    }
+    .noticeeeee ul li {
+        padding: 8px 15px;
+
+    }
+}
+@media all and (max-width:980px) {
+    .footer-text {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-icon {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-icon ul {
+        text-align: center;
+    }
+    .footer-section {
+       padding-top: 30px;
+        padding-bottom: 50px;
+    }
+}
